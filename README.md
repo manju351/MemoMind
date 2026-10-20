@@ -1,4 +1,4 @@
-# FlashForge
+# Recall Flow
 
 > Paste your notes — get AI-generated spaced-repetition flashcards.
 
